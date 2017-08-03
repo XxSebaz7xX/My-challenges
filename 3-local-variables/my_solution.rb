@@ -1,5 +1,11 @@
 # Local Variables
-
+num1 = 7
+num2 = 6
+sum = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+quotient = num1.to_f / num2.to_f
+modulus = num1.to_f % num2.to_f
 
 # Pruebas NO LAS BORRES
 
