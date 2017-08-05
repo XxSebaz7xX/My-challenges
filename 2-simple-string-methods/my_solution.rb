@@ -1,8 +1,8 @@
 # Simple String Methods
 
 # Tu solucion abajo:
-old_string = "Ruby is cool"
-new_string = "LOOC SI YBUR"
+#old_string = "Ruby is cool"
+#new_string = old_string.reverse.upcase
 
 
 describe "old_string" do
